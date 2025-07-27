@@ -4,8 +4,8 @@ description: >-
 # Use the Cayman theme for GitHub Pages
 theme: jekyll-theme-cayman
 # Set the baseurl to "/yk-work-journal" if using a project site (not a user/organization site)
-# baseurl: "/yk-work-journal"
-# url: "https://ykhan-sys.github.io"
+baseurl: "/yk-work-journal"
+url: "https://ykhan-sys.github.io"
 
 # Build settings
 markdown: kramdown
